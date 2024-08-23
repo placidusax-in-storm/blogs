@@ -1,0 +1,1 @@
+encodeURIComponent encodes characters such as '&', '=', and '?' that are allowed in URIs but not in URI components.
