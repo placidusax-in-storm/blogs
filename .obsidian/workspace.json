@@ -13,26 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code-design/Bazel VS Module Federation.md",
+                "file": "code-design/Getter Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0563c89d9a74f13",
+            "id": "71c1a472710e4fca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code-design/Why hook matters, can we create useQuery without hook?.md",
+                "file": "code-design/如何编写简单的代码.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7254ea369dcada3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code-design/如何检验一个命名的好坏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4d830dedd4afd40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code-design/避免 uncontrolled 组件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0275e8a844b8c0a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/为什么用 react-query.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c259a518053e7131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/函数式编程实践 -- io-ts实现解析.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -82,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 266.5
   },
   "right": {
     "id": "5e35eea0e22c79be",
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code-design/Bazel VS Module Federation.md",
+                "file": "blogs/函数式编程实践 -- io-ts实现解析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code-design/Bazel VS Module Federation.md",
+                "file": "blogs/函数式编程实践 -- io-ts实现解析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +186,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code-design/Bazel VS Module Federation.md"
+                "file": "blogs/函数式编程实践 -- io-ts实现解析.md"
               }
             }
+          },
+          {
+            "id": "a68abc2140ecaab0",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2d5faccd7595c47",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 449.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -156,40 +221,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b556c2cdf449cf1c",
+  "active": "c259a518053e7131",
   "lastOpenFiles": [
+    "code-design/减少 Protobuf message 的\"复用\"带来的嵌套.md",
+    "blogs/函数式编程实践 -- io-ts实现解析.md",
+    "code-design/慎用解构.md",
+    "blogs/为什么用 rxjs.md",
+    "code-design/用 include 简化条件判断是坏主意.md",
+    "code-design/复用代码的陷阱.md",
+    "code-design/抽象 复用代码的现陷阱.md",
+    "blogs/blueprintjs 背后的思想.md",
+    "blogs/为什么使用 blueprintjs.md",
+    "blogs/为什么我使用 blueprintjs.md",
+    "blogs/类型安全与引用安全.md",
+    "code-design/避免 uncontrolled 组件.md",
+    "blogs/为什么用 react-query.md",
+    "code-design/如何检验一个命名的好坏.md",
+    "blogs/从 lodash 到 fp-ts.md",
+    "从 lodash 到 fp-ts.md",
+    "code-design/命名为什么如此重要.md",
+    "code-design/c.md",
+    "code-design/区分代码混乱与业务逻辑混乱.md",
+    "code-design/返回的结构体应当是扁平化的.md",
+    "reorganize/useLayoutEffect.md",
+    "WIP/useState rather than useRef.md",
+    "WIP/virtual.md",
+    "reorganize/XSS(Cross Site Scripting).md",
+    "reorganize/When to use encodeURI.md",
+    "reorganize/How CSP stop XSS.md",
+    "Getter Pattern",
+    "server",
+    "smart-chats",
     "WIP",
-    "code-design/hook 与 数据获取.md",
     "blogs",
     "reorganize",
     "code-implementation",
-    "code-design/Bazel VS Module Federation.md",
-    "code-design/How to maintain queryParams and component state.md",
-    "code-design/数据获取为什么不应该放在 vuex redux里.md",
-    "code-design",
-    "WIP/useState rather than useRef.md",
-    "Untitled.md",
-    "reorganize/encodeURI VS encodeURIComponent.md",
-    "reorganize/lerna/lerna-bootstrap.md",
-    "reorganize/lerna/fixed-mode.md",
-    "reorganize/bazel/rule.md",
-    "reorganize/bazel/target.md",
-    "reorganize/bazel/repository.md",
-    "reorganize/bazel/package-group.md",
-    "reorganize/bazel/label.md",
-    "code-design/区分代码混乱与业务逻辑混乱.md",
-    "blogs/实现TypeScript运行时类型检查.md",
-    "code-design/如何编写简单的代码.md",
-    "code-design/如何检验一个命名的好坏.md",
-    "code-design/如何 抽象 复用代码.md",
-    "code-design/命名为什么如此重要.md",
-    "code-design/什么情况下需要 useReducer.md",
-    "reorganize/XSS(Cross Site Scripting).md",
-    "code-design/Why hook matters, can we create useQuery without hook?.md",
-    "reorganize/When to use encodeURI.md",
-    "WIP/virtual.md"
+    "code-design"
   ]
 }

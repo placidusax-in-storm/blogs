@@ -11,8 +11,12 @@
             "id": "0963a6d9d218babe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Ramda鲜为人知的一面.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "blogs/Ramda鲜为人知的一面.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "blogs/Ramda鲜为人知的一面.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "garbage-collection/mark-sweap.md"
+            "file": "blogs/Ramda鲜为人知的一面.md"
           }
         }
       }
@@ -117,6 +123,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -125,7 +132,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0361f92c7cdfe7b",
+  "active": "0963a6d9d218babe",
   "lastOpenFiles": [
     "code-design/区分代码混乱与业务逻辑混乱.md",
     "code-design/命名为什么如此重要.md",

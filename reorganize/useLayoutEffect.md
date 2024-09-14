@@ -1,0 +1,1 @@
+Stop React commit to DOM, run the effect, if any state change inside that effect, rerender.
