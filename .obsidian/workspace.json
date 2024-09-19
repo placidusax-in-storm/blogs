@@ -229,6 +229,7 @@
   },
   "active": "c259a518053e7131",
   "lastOpenFiles": [
+    "README.md",
     "函数式编程实践 -- io-ts实现解析.md",
     "Ramda鲜为人知的一面.md",
     "杂记/避免 uncontrolled 组件.md",
@@ -254,7 +255,6 @@
     "wip/blueprintjs 背后的思想.md",
     "wip/为什么用 react-query.md",
     "wip/类型安全与引用安全.md",
-    "wip/为什么用 rxjs.md",
     "Getter Pattern",
     "server",
     "smart-chats",
