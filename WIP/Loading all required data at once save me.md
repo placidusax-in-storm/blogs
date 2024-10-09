@@ -1,0 +1,1 @@
+Loading all required data at once avoid the component to handle invalid state which required data is not filled. 
