@@ -16,7 +16,9 @@
                 "file": "杂记/Getter Pattern.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Getter Pattern"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "杂记/如何编写简单的代码.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "如何编写简单的代码"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "杂记/如何检验一个命名的好坏.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "如何检验一个命名的好坏"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "杂记/避免 uncontrolled 组件.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "避免 uncontrolled 组件"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "wip/为什么用 react-query.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "为什么用 react-query"
             }
           },
           {
@@ -73,14 +83,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why do people pretend they don't understand what we say?.md",
+                "file": "杂记/Bazel 与 Webpack 模块联邦.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Bazel 与 Webpack 模块联邦"
+            }
+          },
+          {
+            "id": "a5101004f168acd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15 年游戏 为什么还是菜.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15 年游戏 为什么还是菜"
+            }
+          },
+          {
+            "id": "97ffaa747263e639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂记/避免中间变量, 用函数式编程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "避免中间变量, 用函数式编程"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -100,7 +140,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -115,7 +157,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -123,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -146,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why do people pretend they don't understand what we say?.md",
+                "file": "杂记/避免中间变量, 用函数式编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +200,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 避免中间变量, 用函数式编程"
             }
           },
           {
@@ -163,10 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why do people pretend they don't understand what we say?.md",
+                "file": "杂记/避免中间变量, 用函数式编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 避免中间变量, 用函数式编程"
             }
           },
           {
@@ -177,7 +227,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -186,8 +238,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why do people pretend they don't understand what we say?.md"
-              }
+                "file": "杂记/避免中间变量, 用函数式编程.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 避免中间变量, 用函数式编程"
             }
           },
           {
@@ -195,7 +249,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -203,7 +259,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -227,35 +285,35 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b556c2cdf449cf1c",
+  "active": "97ffaa747263e639",
   "lastOpenFiles": [
-    "wip/How to effectively leverage code copilots.md",
-    "Why do people pretend they don't understand what we say?.md",
-    "smart-chats",
-    "Ramda鲜为人知的一面.md",
-    "README.md",
-    "函数式编程实践 -- io-ts实现解析.md",
-    "wip/blueprintjs 背后的思想.md",
-    "杂记/为什么TypeScript让初用者不习惯.md",
-    "wip/hook 与 数据获取.md",
-    "wip/How to maintain queryParams and component state.md",
-    "wip/If code is difficult to describe using types, it may indicate a design flaw.md",
-    "wip/Loading all required data at once save me.md",
-    "wip/virtual.md",
-    "wip/为什么开发效率会慢.md",
-    "wip/从 lodash 到 fp-ts.md",
-    "wip/类型安全与引用安全.md",
-    "wip/什么情况下需要 useReducer.md",
-    "wip/为什么用 rxjs.md",
-    "wip/为什么用 react-query.md",
-    "wip/为什么 protobuf 设计为 optional by default.md",
+    "杂记/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
+    "杂记/避免中间变量, 用函数式编程.md",
+    "杂记/服务器端渲染和 remote action的看法.md",
+    "杂记/下次小心 为什么 不管用.md",
+    "杂记/组合优于配置.md",
+    "杂记/什么是无意义的封装.md",
+    "15 年游戏 为什么还是菜.md",
+    "杂记/Bazel 与 Webpack 模块联邦.md",
+    "wip/Untitled.md",
     "杂记/Getter Pattern.md",
-    "实现TypeScript运行时类型检查.md",
-    "杂记/避免 uncontrolled 组件.md",
-    "杂记/返回的结构体应当是扁平化的.md",
-    "杂记/用 include 简化条件判断是坏主意.md",
-    "杂记/数据获取为什么不应该放在 vuex redux里.md",
+    "杂记/为什么TypeScript让初用者不习惯.md",
+    "杂记/减少 Protobuf message 的\"复用\"带来的嵌套.md",
+    "杂记/区分代码混乱与业务逻辑混乱.md",
+    "杂记/命名为什么如此重要.md",
+    "杂记/如何编写简单的代码.md",
     "杂记/慎用解构.md",
+    "杂记/数据获取为什么不应该放在 vuex redux里.md",
+    "杂记/用 include 简化条件判断是坏主意.md",
+    "杂记/返回的结构体应当是扁平化的.md",
+    "杂记/避免 uncontrolled 组件.md",
+    "Why do people pretend they don't understand what we say?.md",
+    "Ramda鲜为人知的一面.md",
+    "函数式编程实践 -- io-ts实现解析.md",
+    "wip/How to effectively leverage code copilots.md",
+    "smart-chats",
+    "README.md",
+    "wip/blueprintjs 背后的思想.md",
     "Getter Pattern",
     "server",
     "wip",
