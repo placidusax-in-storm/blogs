@@ -111,28 +111,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/避免中间变量, 用函数式编程.md",
+                "file": "Private/Self Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "避免中间变量, 用函数式编程"
-            }
-          },
-          {
-            "id": "6e30223123310eea",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Self Management"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -163,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#函数式编程",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,10 +238,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记/避免中间变量, 用函数式编程.md"
+                "file": "Private/Self Management.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 避免中间变量, 用函数式编程"
+              "title": "Outline of Self Management"
             }
           },
           {
@@ -277,11 +265,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,15 +280,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6e30223123310eea",
+  "active": "97ffaa747263e639",
   "lastOpenFiles": [
-    "杂记/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
+    "Private/Social.md",
+    "Private/Keys.md",
     "杂记/避免中间变量, 用函数式编程.md",
+    "Private/Self Management.md",
+    "杂记/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
     "杂记/服务器端渲染和 remote action的看法.md",
     "杂记/下次小心 为什么 不管用.md",
     "smart-chats",
