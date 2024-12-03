@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redemption of crazy form.md",
+                "file": "WIP/Redemption of crazy form.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is view-model, how to use it.md",
+                "file": "WIP/What is view-model, how to use it.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why testing is hard.md",
+                "file": "WIP/Why testing is hard.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "why not Nestjs.md",
+                "file": "WIP/why not Nestjs.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why connectrpc.md",
+                "file": "WIP/Why connectrpc.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "发传单与引进新技术.md",
+                "file": "WIP/发传单与引进新技术.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,7 +209,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploratory Mindset.md",
+                "file": "WIP/Exploratory Mindset.md",
                 "mode": "source",
                 "source": false
               },
@@ -223,7 +223,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What Is Type Class, and Why Does It Matter.md",
+                "file": "WIP/What Is Type Class, and Why Does It Matter.md",
                 "mode": "source",
                 "source": false
               },
@@ -251,7 +251,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬拉与代码设计.md",
+                "file": "WIP/硬拉与代码设计.md",
                 "mode": "source",
                 "source": false
               },
@@ -509,34 +509,35 @@
   },
   "active": "b556c2cdf449cf1c",
   "lastOpenFiles": [
-    "README.md",
+    "Private/Talk.md",
+    "Shared/15 年游戏 为什么还是菜.md",
+    "Reorganize.md",
+    "WIP/发传单与引进新技术.md",
+    "WIP/Exploratory Mindset.md",
+    "WIP/Why do people pretend they don't understand what we say.md",
+    "WIP/Why connectrpc.md",
+    "WIP/What Is Type Class, and Why Does It Matter.md",
+    "WIP/What is view-model, how to use it.md",
+    "Private/Self Management.md",
+    "Shared",
     "Private/Achieved&Discard.md",
+    "README.md",
     "Private/Social.md",
     "Private/Training.md",
-    "Private/Self Management.md",
-    "Private/Talk.md",
     "Private/Keys.md",
     "Untitled.canvas",
     "Private",
-    "熟练的初学者.md",
-    "硬拉与代码设计.md",
+    "Shared/熟练的初学者.md",
+    "WIP/硬拉与代码设计.md",
     "WIP/未来职业发展的随想.md",
-    "A refactor of a form state transition.md",
-    "What Is Type Class, and Why Does It Matter.md",
-    "Exploratory Mindset.md",
-    "发传单与引进新技术.md",
-    "Why connectrpc.md",
-    "why not Nestjs.md",
-    "Why testing is hard.md",
-    "What is view-model, how to use it.md",
-    "Redemption of crazy form.md",
+    "WIP/A refactor of a form state transition.md",
+    "WIP/why not Nestjs.md",
+    "WIP/Why testing is hard.md",
+    "WIP/Redemption of crazy form.md",
     "杂记/避免中间变量, 用函数式编程.md",
     "杂记/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
     "杂记/服务器端渲染和 remote action的看法.md",
     "杂记/下次小心 为什么 不管用.md",
-    "杂记/组合优于配置.md",
-    "杂记/什么是无意义的封装.md",
-    "15 年游戏 为什么还是菜.md",
     "smart-chats",
     "Getter Pattern",
     "server",
