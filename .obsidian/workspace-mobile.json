@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Ramda鲜为人知的一面.md",
+                "file": "15 年游戏 为什么还是菜.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "15 年游戏 为什么还是菜"
             }
           }
         ]
@@ -35,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -50,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -61,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -69,7 +77,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -85,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "blogs/Ramda鲜为人知的一面.md",
+            "file": "15 年游戏 为什么还是菜.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +103,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -102,10 +114,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "blogs/Ramda鲜为人知的一面.md",
+            "file": "15 年游戏 为什么还是菜.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -114,8 +128,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "blogs/Ramda鲜为人知的一面.md"
-          }
+            "file": "15 年游戏 为什么还是菜.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -134,6 +150,7 @@
   },
   "active": "0963a6d9d218babe",
   "lastOpenFiles": [
+    "wip/How to maintain queryParams and component state.md",
     "code-design/区分代码混乱与业务逻辑混乱.md",
     "code-design/命名为什么如此重要.md",
     "code-design/If code is difficult to describe using types, it may indicate a design flaw.md",
@@ -160,7 +177,6 @@
     "reorganize/bazel/label.md",
     "reorganize/lerna/fixed-mode.md",
     "reorganize/lerna/lerna-hoisting.md",
-    "reorganize/lerna/lerna-bootstrap.md",
     "reorganize/garbage-collection",
     "reorganize/bazel",
     "reorganize/lerna",

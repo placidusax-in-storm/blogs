@@ -118,9 +118,21 @@
               "icon": "lucide-file",
               "title": "避免中间变量, 用函数式编程"
             }
+          },
+          {
+            "id": "6e30223123310eea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -269,8 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5,
-    "collapsed": true
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,7 +296,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "97ffaa747263e639",
+  "active": "6e30223123310eea",
   "lastOpenFiles": [
     "杂记/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
     "杂记/避免中间变量, 用函数式编程.md",
