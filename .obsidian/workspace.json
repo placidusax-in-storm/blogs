@@ -118,9 +118,233 @@
               "icon": "lucide-file",
               "title": "避免中间变量, 用函数式编程"
             }
+          },
+          {
+            "id": "68c4409c805ba1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redemption of crazy form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redemption of crazy form"
+            }
+          },
+          {
+            "id": "32c747b5d7161a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is view-model, how to use it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is view-model, how to use it"
+            }
+          },
+          {
+            "id": "eec4995a5896d4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why testing is hard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why testing is hard"
+            }
+          },
+          {
+            "id": "2e4825e5582d39c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why not Nestjs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why not Nestjs"
+            }
+          },
+          {
+            "id": "5330bc3f72d21a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why connectrpc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why connectrpc"
+            }
+          },
+          {
+            "id": "cc18c8e18d4a1d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "发传单与引进新技术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "发传单与引进新技术"
+            }
+          },
+          {
+            "id": "260c5b6b9f42a529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exploratory Mindset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exploratory Mindset"
+            }
+          },
+          {
+            "id": "b0bf66faab8ce723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What Is Type Class, and Why Does It Matter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What Is Type Class, and Why Does It Matter"
+            }
+          },
+          {
+            "id": "2c49b3d0fe98ad99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIP/未来职业发展的随想.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未来职业发展的随想"
+            }
+          },
+          {
+            "id": "c25f4aacc4d2bada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "硬拉与代码设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "硬拉与代码设计"
+            }
+          },
+          {
+            "id": "ec83c1a506cf0e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keys"
+            }
+          },
+          {
+            "id": "b574001fcaa80ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Talk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Talk"
+            }
+          },
+          {
+            "id": "0b514f79374f40e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Self Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Self Management"
+            }
+          },
+          {
+            "id": "03c4ed5782d72f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Training.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Training"
+            }
+          },
+          {
+            "id": "5da5b41fd650833a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Social.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social"
+            }
+          },
+          {
+            "id": "1e275d4c93099294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Achieved&Discard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Achieved&Discard"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -280,40 +504,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "97ffaa747263e639",
+  "active": "b556c2cdf449cf1c",
   "lastOpenFiles": [
-    "杂记/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
+    "README.md",
+    "Private/Achieved&Discard.md",
+    "Private/Social.md",
+    "Private/Training.md",
+    "Private/Self Management.md",
+    "Private/Talk.md",
+    "Private/Keys.md",
+    "Untitled.canvas",
+    "Private",
+    "熟练的初学者.md",
+    "硬拉与代码设计.md",
+    "WIP/未来职业发展的随想.md",
+    "A refactor of a form state transition.md",
+    "What Is Type Class, and Why Does It Matter.md",
+    "Exploratory Mindset.md",
+    "发传单与引进新技术.md",
+    "Why connectrpc.md",
+    "why not Nestjs.md",
+    "Why testing is hard.md",
+    "What is view-model, how to use it.md",
+    "Redemption of crazy form.md",
     "杂记/避免中间变量, 用函数式编程.md",
+    "杂记/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
     "杂记/服务器端渲染和 remote action的看法.md",
     "杂记/下次小心 为什么 不管用.md",
     "杂记/组合优于配置.md",
     "杂记/什么是无意义的封装.md",
     "15 年游戏 为什么还是菜.md",
-    "杂记/Bazel 与 Webpack 模块联邦.md",
-    "wip/Untitled.md",
-    "杂记/Getter Pattern.md",
-    "杂记/为什么TypeScript让初用者不习惯.md",
-    "杂记/减少 Protobuf message 的\"复用\"带来的嵌套.md",
-    "杂记/区分代码混乱与业务逻辑混乱.md",
-    "杂记/命名为什么如此重要.md",
-    "杂记/如何编写简单的代码.md",
-    "杂记/慎用解构.md",
-    "杂记/数据获取为什么不应该放在 vuex redux里.md",
-    "杂记/用 include 简化条件判断是坏主意.md",
-    "杂记/返回的结构体应当是扁平化的.md",
-    "杂记/避免 uncontrolled 组件.md",
-    "Why do people pretend they don't understand what we say?.md",
-    "Ramda鲜为人知的一面.md",
-    "函数式编程实践 -- io-ts实现解析.md",
-    "wip/How to effectively leverage code copilots.md",
     "smart-chats",
-    "README.md",
-    "wip/blueprintjs 背后的思想.md",
     "Getter Pattern",
     "server",
     "wip",
