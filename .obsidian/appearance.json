@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "theme": "system",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Consolas"
 }
