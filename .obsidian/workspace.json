@@ -4,165 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "a9fda0767bcdf643",
+        "id": "3ac835a77f0da54b",
         "type": "tabs",
         "children": [
           {
-            "id": "227fc9e572976de7",
+            "id": "dd78f30465b36e16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/Getter Pattern.md",
+                "file": "WIP/What Is Type Class, and Why Does It Matter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getter Pattern"
+              "title": "What Is Type Class, and Why Does It Matter"
             }
           },
           {
-            "id": "71c1a472710e4fca",
+            "id": "401bc6149e566d90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/如何编写简单的代码.md",
+                "file": "Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何编写简单的代码"
+              "title": "Stack"
             }
           },
           {
-            "id": "7254ea369dcada3d",
+            "id": "c4e7dd71fcce5216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/如何检验一个命名的好坏.md",
+                "file": "Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何检验一个命名的好坏"
+              "title": "Stack"
             }
           },
           {
-            "id": "b4d830dedd4afd40",
+            "id": "4e3fa60a24808cf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/避免 uncontrolled 组件.md",
+                "file": "Avoid intermediate data structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "避免 uncontrolled 组件"
-            }
-          },
-          {
-            "id": "0275e8a844b8c0a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wip/为什么用 react-query.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "为什么用 react-query"
-            }
-          },
-          {
-            "id": "c259a518053e7131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "杂记/Bazel 与 Webpack 模块联邦.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bazel 与 Webpack 模块联邦"
-            }
-          },
-          {
-            "id": "a5101004f168acd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15 年游戏 为什么还是菜.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15 年游戏 为什么还是菜"
-            }
-          },
-          {
-            "id": "97ffaa747263e639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Self Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Self Management"
-            }
-          },
-          {
-            "id": "03c4ed5782d72f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Training.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Training"
-            }
-          },
-          {
-            "id": "5da5b41fd650833a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Social.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Social"
-            }
-          },
-          {
-            "id": "1e275d4c93099294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Self Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Self Management"
+              "title": "Avoid intermediate data structure"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 354.5026054382324
   },
   "right": {
     "id": "5e35eea0e22c79be",
@@ -325,10 +227,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1e275d4c93099294",
+  "active": "4e3fa60a24808cf3",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Put fetched data in Vuex is a bad idea.md",
+    "Avoid intermediate data structure.md",
+    "Stack.md",
+    "WIP/What Is Type Class, and Why Does It Matter.md",
+    "WIP/A refactor of a form state transition.md",
     "Private/Self Management.md",
+    "Untitled.canvas",
     "Private/Achieved&Discard.md",
     "Private/Talk.md",
     "Shared/15 年游戏 为什么还是菜.md",
@@ -337,7 +244,6 @@
     "WIP/Exploratory Mindset.md",
     "WIP/Why do people pretend they don't understand what we say.md",
     "WIP/Why connectrpc.md",
-    "WIP/What Is Type Class, and Why Does It Matter.md",
     "WIP/What is view-model, how to use it.md",
     "Shared",
     "README.md",
@@ -347,14 +253,11 @@
     "Shared/熟练的初学者.md",
     "WIP/硬拉与代码设计.md",
     "WIP/未来职业发展的随想.md",
-    "WIP/A refactor of a form state transition.md",
     "WIP/why not Nestjs.md",
     "WIP/Why testing is hard.md",
     "WIP/Redemption of crazy form.md",
     "杂记/避免中间变量, 用函数式编程.md",
-    "Private/Self Management.md",
     "杂记/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
-    "杂记/服务器端渲染和 remote action的看法.md",
     "smart-chats",
     "Getter Pattern",
     "server",
