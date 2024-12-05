@@ -116,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,30 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Self Management.md"
+                "file": "Stack.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Self Management"
-            }
-          },
-          {
-            "id": "a68abc2140ecaab0",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d2d5faccd7595c47",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of Stack"
             }
           }
         ],
@@ -213,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,8 +209,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4e3fa60a24808cf3",
+  "active": "3a189757c80112fd",
   "lastOpenFiles": [
+    "smart-chats",
+    "Untitled.canvas",
+    "Stack.md",
     "Fregments/Achieved&Discard.md",
     "Shared/熟练的初学者.md",
     "Shared/实现TypeScript运行时类型检查.md",
@@ -239,7 +222,6 @@
     "Shared/Put fetched data in Vuex is a bad idea.md",
     "Shared/Avoid intermediate data structure.md",
     "Shared/15 年游戏 为什么还是菜.md",
-    "Stack.md",
     "Misc/避免中间变量, 用函数式编程.md",
     "Misc/避免 uncontrolled 组件.md",
     "Misc/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
@@ -256,14 +238,11 @@
     "Misc/区分代码混乱与业务逻辑混乱.md",
     "Misc/减少 Protobuf message 的复用带来的嵌套.md",
     "Misc/什么是无意义的封装.md",
-    "Misc/为什么TypeScript让初用者不习惯.md",
     "Misc",
     "Journal",
     "Fregments",
-    "Untitled.canvas",
     "Shared",
     "Private",
-    "smart-chats",
     "Getter Pattern",
     "server",
     "wip",
