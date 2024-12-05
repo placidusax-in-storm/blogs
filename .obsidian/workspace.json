@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shared/熟练的初学者.md",
+                "file": "Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "熟练的初学者"
+              "title": "Stack"
             }
           }
         ],
@@ -224,11 +224,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "4e3fa60a24808cf3",
   "lastOpenFiles": [
+    "Fregments/Achieved&Discard.md",
+    "Shared/熟练的初学者.md",
     "Shared/实现TypeScript运行时类型检查.md",
     "Shared/函数式编程实践 -- io-ts实现解析.md",
     "Shared/Ramda鲜为人知的一面.md",
@@ -253,8 +257,6 @@
     "Misc/减少 Protobuf message 的复用带来的嵌套.md",
     "Misc/什么是无意义的封装.md",
     "Misc/为什么TypeScript让初用者不习惯.md",
-    "Misc/下次小心 为什么 不管用.md",
-    "Misc/Getter Pattern.md",
     "Misc",
     "Journal",
     "Fregments",
