@@ -1,26 +1,9 @@
-There are two perspectives on how to view the world:
 
-1. Villain and victim: If something bad happens, there must be a bad person responsible, and we are the victims, so we need revenge, directly or indirectly, because it is a victims likely to do
-2. Cause and effect: If something bad happens, there are specific causes we can identify and fix.
-
-How we view and interpret the world determines our actions, and these actions shape our future reality.
-
-Even in relationships, there are no victims. We can terminate a relationship after carefully evaluating it as toxic and worthless.
-
-However, with intimate relationships like family, toxicity isn't always so clear-cut.
-
-When we feel hurt, we often trap ourselves in a victim mindset, leading to learned helplessness. In this state, we avoid taking action to change the situation and instead wait passively for others to notice our distress and rescue us.
-
-
-
-If it's too hard to answer why adherence can't be maintained, it may be instructive to answer "why did it happen in the past?"
-
+If it's too hard to answer why adherence can't be maintained, it may be instructive to answer "why did it happen in the past?" 
 Reasoning about why things happen, then considering what factors are missing that lead to loss of a habit.
 
 Observe, collect information, search, study, design new strategies, and return to observation.
-
 This cycle leads to improvement.
-
 Refusing feedback, blaming others, and avoiding negative feelings can stop critical thinking, which in turn halts personal growth.
 
 There are two environments: the small one, which we can see, feel, touch, and is fragile; and the larger one, which is invisible but predictable, stable, and full of competition.
