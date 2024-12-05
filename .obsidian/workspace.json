@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avoid intermediate data structure.md",
+                "file": "Shared/熟练的初学者.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Avoid intermediate data structure"
+              "title": "熟练的初学者"
             }
           }
         ],
@@ -229,6 +229,13 @@
   },
   "active": "4e3fa60a24808cf3",
   "lastOpenFiles": [
+    "Shared/实现TypeScript运行时类型检查.md",
+    "Shared/函数式编程实践 -- io-ts实现解析.md",
+    "Shared/Ramda鲜为人知的一面.md",
+    "Shared/Put fetched data in Vuex is a bad idea.md",
+    "Shared/Avoid intermediate data structure.md",
+    "Shared/15 年游戏 为什么还是菜.md",
+    "Stack.md",
     "Misc/避免中间变量, 用函数式编程.md",
     "Misc/避免 uncontrolled 组件.md",
     "Misc/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
@@ -248,15 +255,8 @@
     "Misc/为什么TypeScript让初用者不习惯.md",
     "Misc/下次小心 为什么 不管用.md",
     "Misc/Getter Pattern.md",
-    "Misc/Bazel 与 Webpack 模块联邦.md",
     "Misc",
-    "Journal/We are not victims in relationships.md",
     "Journal",
-    "Fregments/Training.md",
-    "Fregments/Talk.md",
-    "Fregments/Self Management.md",
-    "Fregments/Social.md",
-    "Fregments/Keys.md",
     "Fregments",
     "Untitled.canvas",
     "Shared",
