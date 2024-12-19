@@ -1,8 +1,9 @@
 {
   "accentColor": "",
   "theme": "system",
-  "baseFontSize": 16,
-  "interfaceFontFamily": "Consolas",
-  "textFontFamily": "Consolas",
-  "monospaceFontFamily": "Consolas"
+  "baseFontSize": 18,
+  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Comic Sans MS",
+  "monospaceFontFamily": "Cascadia Mono",
+  "cssTheme": "Minimal"
 }

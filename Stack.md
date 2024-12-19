@@ -1,4 +1,46 @@
-CHANGING YOURSELF RATHER THAN TRYING TO CHANGE YOUR PARTNER We know - of course - that they urgently need changing. Where do we start with the problems? They are chronically late, emotionally withdrawn, excessively social, too easily influenced, appallingly untidy, frustratingly distant - just to start the list. Our complaints may well be entirely accurate; what we should notice is how utterly fruitless they also are. We have perhaps berated our partner, delivered them ultimatums, sent them angry emails in the night - and still they carry on as always. Changing people is evidently no straightforward business. To preserve our energies, we need to start elsewhere. We should regain a sense of agency by focusing on something we can control and are far better able to effect: ourselves. Here are seven ways in which we can improve our relationships not so much by asking them to evolve as by altering the mindset we approach them with: - Tell them how it feels Instead of telling them sharply to amend their behaviour, we can try to explain - gently - a bit more about what it’s like to be on the receiving end of it. It can be a good deal easier to sympathise with a hurt person than a cross one, a scared person than a furious one. We should take them upstream from our rage and explain what it is like for us when they’re late or when they spend so much time with their friends or don’t answer our messages promptly. We can help them to witness our underlying sadness and anxiety rather than confronting them with our vindictiveness and fury. - Ask them why they do it The natural assumption is that they are doing it principally to hurt us. They know we are bad and are out to punish us. But we should replace some of our dark certainties with curiosity. In a way we have probably never done before, we can ask them why it seems so important to them to focus so much on their friends, or why they have such a need to prove themselves at work or are so often late. What do these things mean to them? How have they come about? There may be some very moving origins to what our partners are up to - entirely unrelated to them seeking to annoy or punish us. Their behaviour may not change; what it means to us (and therefore how we respond to it) can be transformed. - See it as the Weakness of their Strength We can wonder to what good qualities their most frustrating traits are related. The bad sides of people are almost always connected up with positive characteristics somewhere else in their personalities. A lack of punctuality can be the downside of an openness of spirit. People-pleasing may be the downside of empathy; the vice of rigidity can be an unfortunate fruit of the virtue of reliability. Once we draw the links between flaws and their upsides, we can see that our moments of frustration have a psychological necessity about them which can inspire greater patience and forbearance; we are paying the toll in one area for something very good in another. - Hope a little less We must price in problems to stop us being surprised by them at every turn. Pessimism is a friend of love. We have come together with a deeply imperfect person, not by simple bad luck, but by robust laws of human nature. Because anyone we get close to is fated to be, in areas, maddening to us (as we are to them). Because there are - tragically - in the end simply very few perfect people at large on the earth. - Develop a Nickname for every Maddening Trait Turn tears into laughter. Transform every deeply annoying trait into a source of (wry) comedy. Try giving them a name that is the very opposite of the flaw that agonises you; consider the sources of the most persistent arguments and then baptise them, for example, Little Miss Punctual, Mr Organised, Mrs Open and Vulnerable, Mr Straightforward, Frau Curious or Signor Empathy. As Oscar Wilde knew: ‘If you want to tell people the truth, make them laugh, otherwise they'll kill you.’ - Be Nice to them when you can They have maddened us so much, of course. Friendliness is hardly going to come easily. But we thereby dig ourselves into an even greater hole, because in so far as people ever change, they do so not when they are shouted at, called fools or compared unfavourably with their siblings, but when they are encouraged, forgiven, sympathised with and - if we can put it simply - loved. If we refuse this path, it’s often because we imagine that it will entail being taken advantage of. But niceness doesn’t have to be conflated with weakness or surrender, it may just be what works. - We can always get out Knowing that it doesn’t have to go on forever may - paradoxically - be what helps us to keep going. We can remember our freedom so as to make our presence feel willed and appropriately conditional. We’re trying for now. We’ll do our best - until, or unless, we can’t any longer. What adds to our panic in love is typically the sense that we have surrendered our agency to a person who both pains us and escapes our control. But it always lies in our power to recover the initiative - from altering the way we speak to acknowledging our power to leave. Improvements in our relationships may stem not so much from attempting to reshape our partners into different people as from reshaping our responses to the people they already happen to be.
+Function should be pure until it can't.
+
+Learn writing course.
+
+How to write a decent form.
+
+---
+
+
+
+Write down what we thought.
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
