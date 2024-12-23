@@ -180,7 +180,8 @@
   },
   "active": "4e3fa60a24808cf3",
   "lastOpenFiles": [
-    "Journal/One Goal, One night.md",
+    "Journal/One Goal, One Night.md",
+    "Journal/The only one who can hurt us.md",
     "Stack.md",
     "Journal/How to go sleep early.md",
     "Shared/Put fetched data in Vuex is a bad idea.md",
@@ -208,7 +209,6 @@
     "Misc/慎用解构.md",
     "Misc/数据获取为什么不应该放在 vuex redux里.md",
     "Misc/如何编写简单的代码.md",
-    "Misc/如何检验一个命名的好坏.md",
     "Misc",
     "Journal",
     "Fregments",
