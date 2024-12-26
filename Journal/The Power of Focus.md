@@ -1,0 +1,1 @@
+We believe that to save energy, doing things in a less effortful or distracted way is acceptable. However, this is far from the truth. Focus increases mental power, while distraction eliminates it.

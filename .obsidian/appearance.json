@@ -2,8 +2,8 @@
   "accentColor": "",
   "theme": "system",
   "baseFontSize": 18,
-  "interfaceFontFamily": "Comic Sans MS",
-  "textFontFamily": "Comic Sans MS",
-  "monospaceFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "Comic Mono,Comic Sans MS",
+  "textFontFamily": "Comic Sans MS,Comic Mono",
+  "monospaceFontFamily": "Cascadia Mono,Comic Mono",
   "cssTheme": "Minimal"
 }

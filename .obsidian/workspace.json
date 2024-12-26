@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Stack"
             }
+          },
+          {
+            "id": "f8c90d6b114e7eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stack"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +192,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4e3fa60a24808cf3",
+  "active": "f8c90d6b114e7eb1",
   "lastOpenFiles": [
-    "Journal/One Goal, One Night.md",
+    "Prompts.md",
+    "Journal/Why Solitude Matters.md",
+    "Journal/Target first, action follows.md",
     "Journal/The only one who can hurt us.md",
+    "Journal/The Power of Focus.md",
     "Stack.md",
+    "WIP/为什么element ui 的table的勾选状态 的 设计是错误的.md",
+    "Prompts",
+    "Journal/One Goal, One Night.md",
     "Journal/How to go sleep early.md",
     "Shared/Put fetched data in Vuex is a bad idea.md",
     "Pasted image 20241217143109.png",
@@ -204,11 +224,6 @@
     "Misc/让后端的数据, 用最简单, 最直接的方式(computed), 对应到前端的数据模型.md",
     "Misc/返回的结构体应当是扁平化的.md",
     "Misc/组合优于配置.md",
-    "Misc/用 include 简化条件判断是坏主意.md",
-    "Misc/服务器端渲染和 remote action的看法.md",
-    "Misc/慎用解构.md",
-    "Misc/数据获取为什么不应该放在 vuex redux里.md",
-    "Misc/如何编写简单的代码.md",
     "Misc",
     "Journal",
     "Fregments",
@@ -216,7 +231,6 @@
     "Private",
     "Getter Pattern",
     "server",
-    "wip",
-    "长篇"
+    "wip"
   ]
 }
